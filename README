@@ -1,0 +1,35 @@
+Configuration files and classes found in Configurations folder.
+basic view is found in Home folder
+default username: admin
+        password: password
+and only works when no data is in the Database
+Server configuration is found in the details file Found in the Configurations folder.
+password is hashed in a three way format to ensure effective Security
+
+
+`7MM"""Yb. `7MM"""YMM  `7MN.   `7MF'`7MN.   `7MF'`7MMF' .M"""bgd
+  MM    `Yb. MM    `7    MMN.    M    MMN.    M    MM  ,MI    "Y
+  MM     `Mb MM   d      M YMb   M    M YMb   M    MM  `MMb.    
+  MM      MM MMmmMM      M  `MN. M    M  `MN. M    MM    `YMMNq.   
+  MM     ,MP MM   Y  ,   M   `MM.M    M   `MM.M    MM  .     `MM
+  MM    ,dP' MM     ,M   M     YMM    M     YMM    MM  Mb     dM
+.JMMmmmdP' .JMMmmmmMMM .JML.    YM  .JML.    YM  .JMML.P"Ybmmd" 
+                                                                
+                                                                
+    .n~~%x.       .x~~"*Weu.     .--~*teu.      .--~*teu.          oe      cuuu....uK   
+  x88X   888.    d8Nu.  9888c   dF     988Nx   dF     988Nx      .@88      888888888    
+ X888X   8888L   88888  98888  d888b   `8888> d888b   `8888> ==*88888      8*888**"     
+X8888X   88888   "***"  9888%  ?8888>  98888F ?8888>  98888F    88888      >  .....     
+88888X   88888X       ..@8*"    "**"  x88888~  "**"  x88888~    88888      Lz"  ^888Nu  
+88888X   88888X    ````"8Weu         d8888*`        d8888*`     88888      F     '8888k 
+88888X   88888f   ..    ?8888L     z8**"`   :     z8**"`   :    88888      ..     88888>
+48888X   88888  :@88N   '8888N   :?.....  ..F   :?.....  ..F    88888     @888L   88888 
+ ?888X   8888"  *8888~  '8888F  <""888888888~  <""888888888~    88888    '8888F   8888F 
+  "88X   88*`   '*8"`   9888%   8:  "888888*   8:  "888888*     88888     %8F"   d888"  
+    ^"==="`       `~===*%"`     ""    "**"`    ""    "**"`   '**%%%%%%**   ^"===*%"`
+
+ \O     O     O    O     O/    \O   
+  |\   /|\   /|   /|    /|      |\  
+ / \   / \   / \  / \   / \    / \  
+_\ /_./   \,_\ /__\ /_./   \,./   \,
+
